@@ -51,8 +51,8 @@
             "x86_64"
           ],
           "url": "http://en.fss.flashforge.com/10000/software/e94ac043da923cc69137ff1b42686f9e.deb",
-          "sha256": "40fcfd4b396a9bed8615987b0e78c4a6ffd041c7822d166a142baeddfb519495",
-          "size": 13090434
+          "sha256": "167dbf3307bf5f1784a7a5c58f216b711c19ceee1d703a71374dd043f2f4702c",
+          "size": 13082252
         },
         {
           "type": "file",
